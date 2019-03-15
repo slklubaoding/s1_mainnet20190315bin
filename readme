@@ -1,0 +1,5 @@
+run wtc node only need below command:
+./wtcrun.sh
+
+if you want to run in backend,use command:
+./backend.sh
